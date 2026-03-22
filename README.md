@@ -27,9 +27,7 @@ The dashboard helps businesses understand how visitors move through different st
 * Total Customers: 14K
 * Overall Conversion Rate: 3%
 
-## 📷 Dashboard Preview
 
-![Dashboard Preview](dashboard(2).png)
 
 ## 🔍 Key Insights
 
